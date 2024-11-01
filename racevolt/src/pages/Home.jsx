@@ -18,9 +18,7 @@ import arduino from '../assets/image/Arduino.jpg';
 import stand from '../assets/image/icons/icon-stand.png';
 import pista from '../assets/image/icons/icon-carrinho.png';
 import premio from '../assets/image/icons/icon-premio.png';
-import anuncio from '../assets/Banner-Anuncio.png'
 
-import kits from '../assets/image/premios/premio-arduino.png';
 
 const Home = () => {
   const handleSubmit = () => {
