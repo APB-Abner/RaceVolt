@@ -1,10 +1,6 @@
 import React from 'react';
 import './CSS/Home.css'; 
 
-/* Icons */ 
-import stand from '../assets/image/icons/icon-stand.png';
-import pista from '../assets/image/icons/icon-carrinho.png';
-import premio from '../assets/image/icons/icon-premio.png';
 
 import organico from '../assets/image/icons/icon-organico.png';
 import estrategia from '../assets/image/icons/icon-estrategia.png';
